@@ -6,5 +6,6 @@ At the start of my research, I did not think the project will be this complex. U
 
 Regardless, every python script here serve some purpose to my thesis. it is just that now only God know which file do what. So if you ever want to replicate my research, feel free. But mind yourself that if you have any question about this repo, dont mail me since i dont know also.
 
-Regards,
+God bless,
+
 nanotnam
