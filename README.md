@@ -1,8 +1,8 @@
 # thesis
 
 
-There used to be God and me who understood this code
-Now,
-there is only God.
+God and I understood this code when we created it together.
 
-Many thanks to all the friends and professors along the way during my uni time.
+Now, even he does not know what I was doing.
+
+Many thanks to all my friends and professors during my university years.
